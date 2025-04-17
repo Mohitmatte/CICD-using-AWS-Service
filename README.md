@@ -18,7 +18,7 @@ This project demonstrates a complete CI/CD pipeline on AWS using the AWS Console
 
 ## 🖼 Architecture Diagram
 
-![CI/CD Diagram](Diagram\complete_cicd_using_aws.png)
+![CI/CD Diagram](Diagram/complete_cicd_using_aws.png)
 
 ## 📄 Files
 - `buildspec.yml`: Instructions for CodeBuild
